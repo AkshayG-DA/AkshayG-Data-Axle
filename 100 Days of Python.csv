@@ -1,5 +1,5 @@
 Sr Number,From Day/To Day,Number of Days,Group,Topic,Practice,Study Materials
-1,1,1,Python Basics and Fundamentals,Introduction to Python,Install Python and write a simple 'Hello World! code,Python Official Documentation
+1,1,1,Python Basics and Fundamentals,Introduction to Python,Install Python and write a simple 'Hello World! code,Python Official Documentation(https://docs.python.org/3/)
 2,2-4,3,Python Basics and Fundamentals,Variables and Data Types,Perform data type conversions and variable assignments,Python Data Types and Variables
 3,5-7,3,Python Basics and Fundamentals,Control Flow and Loops,Use conditionals and loops to control program flow,Python Control Flow
 4,8-10,3,Python Basics and Fundamentals,Functions and Modules,Create and import functions and modules in Python,Python Functions
