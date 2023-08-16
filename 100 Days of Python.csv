@@ -17,7 +17,7 @@ Sr Number,From Day/To Day,Number of Days,Group,Topic,Practice,Study Materials
 39,49-51,3,Data Transformation Strategies,Database Design and Normalization,Design databases and normalize tables,Database Normalization
 40,52-54,3,SQL Mastery and Warehousing,SQL Queries and Optimization,Write efficient SQL queries and optimize performance,SQL Basics
 41,55-57,3,SQL Mastery and Warehousing,Introduction to Data Warehousing,Learn about data warehousing principles and techniques,Data Warehousing Basics
-42,58-60,3,SQL Mastery and Warehousing,ETL (Extract, Transform, Load) Processes,Implement ETL processes using Python,ETL Concepts
+42,58-60,3,SQL Mastery and Warehousing,ETL (Extract-Transform-Load) Processes,Implement ETL processes using Python,ETL Concepts
 43,61-63,3,Data Workflow and Big Data,Data Pipelines and Workflow Management,Build and manage data pipelines using Apache Airflow,Apache Airflow Documentation
 44,64-66,3,Data Workflow and Big Data,Data Serialization Formats and Compression,Work with data serialization formats and compression,Data Serialization and Compression
 45,67-69,3,Data Workflow and Big Data,Big Data Concepts and Technologies,Understand big data concepts and popular technologies,Big Data Basics
